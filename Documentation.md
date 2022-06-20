@@ -16,6 +16,7 @@
   * There needs to be lots of images to show off my achievements and career in the past.
 * Navigations
 * Typography
+  * Fonts: Arial
 
 ## Interests
 * Customers
@@ -30,7 +31,7 @@
   * Well documented
   * Time organisation
   * Maintenence
-  * Easy to test?
+  * Easy to test
   * Standards
 
 # Navigation
@@ -46,7 +47,7 @@ Employers, I am creating a portfolio for potential employers to see my work and 
 ![Design2](/framework/src/images/Markdown/Design2.png)
 
 ## Why i chose Design 1 over Design 2
-The first design is visually better compared to the second. It has more design features that show off my skills and capabilities.
+The first design is visually better compared to the second. It has more design features that show off my skills and capabilities. The look for the first is more professional looking, calm and easy on the eyes while it keeps a cool feeling.
 
 
 # Feedback
