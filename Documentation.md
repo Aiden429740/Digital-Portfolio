@@ -61,3 +61,18 @@ the about me page is really cool and unique too
 
 # What I've done
 I've added more detail to the skills page
+
+# Testing
+## Firefox
+![Firefox](/framework/src/images/Markdown/Firefoc.png)
+## Chrome
+![Chrome](/framework/src/images/Markdown/Chrome.png)
+
+Between these 2 browsers, there is a height difference that squeezes chrome. There is also a notable size difference between the text and logo. Chrome becomes smaller and Firefox has bigger readability.
+
+
+# Timeline
+## Designs
+I have expected the design to take roughly 3 days, hours for revisions and redesign choices.
+## Website
+I expect to have the first 3 pages, Home, About Me and More by the 25th and carry on with other pages like skills, achievements and more.
