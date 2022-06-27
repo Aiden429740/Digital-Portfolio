@@ -68,11 +68,11 @@ I've added more detail to the skills page
 ## Chrome
 ![Chrome](/framework/src/images/Markdown/Chrome.png)
 
-Between these 2 browsers, there is a height difference that squeezes chrome. There is also a notable size difference between the text and logo. Chrome becomes smaller and Firefox has bigger readability.
+Between these 2 browsers, there is a height difference that squeezes chrome. There is also a notable size difference between the text and logo. Chrome becomes smaller and Firefox has bigger readability. Firefox would be better in terms of feedback received, this helps with reading, proportions and 
 
 
 # Timeline
-## Designs
+* ## Designs
 I have expected the design to take roughly 3 days, hours for revisions and redesign choices.
-## Website
+* ## Website
 I expect to have the first 3 pages, Home, About Me and More by the 25th and carry on with other pages like skills, achievements and more.
